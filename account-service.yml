@@ -1,0 +1,8 @@
+account:
+  params:
+    b: '4'
+    a: '3'
+spring:
+  datasource:
+    url: jdbc:h2:mem:account-db
+    
